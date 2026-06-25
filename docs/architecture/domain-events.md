@@ -1,0 +1,8 @@
+InvoiceImported
+ReceiptRegistered
+DailyReturnCreated
+MonthlyReturnSubmitted
+ReturnProcessingStarted
+ReturnValidated
+ReturnApproved
+ReturnRejected
